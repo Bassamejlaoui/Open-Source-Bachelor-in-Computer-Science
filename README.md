@@ -1,5 +1,4 @@
-# Open-Source-Bachelor-in-Computer-Science
- [![The CyberPolyglot](https://img.shields.io/badge/The%20CyberPolyglot-red?logoColor=FFD700)](#github-repositories)
+# Open-Source-Bachelor-in-Computer-Science [![The CyberPolyglot](https://img.shields.io/badge/The%20CyberPolyglot-red?logoColor=FFD700)](#github-repositories)
 
 ***The BSc computer science online curriculum is thoughtfully designed to provide you with the essential knowledge and skills needed to thrive in the dynamic tech industry. Here's a concise overview of the subjects you will study:***
 
